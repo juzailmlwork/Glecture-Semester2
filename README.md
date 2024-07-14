@@ -1,1 +1,2 @@
-# glecture-sem2
+# Glecture
+Semester-3 project

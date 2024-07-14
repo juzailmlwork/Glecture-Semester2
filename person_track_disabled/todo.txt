@@ -1,0 +1,1 @@
+This folder should have a main.py which uses both utils/palm_detection and utils/gesture_detection
